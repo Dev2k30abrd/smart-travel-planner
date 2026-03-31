@@ -22,3 +22,4 @@ A hybrid machine learning project that predicts travel budget using airfare data
 # Model Performance
 
 * Final R² Score ≈ 0.80
+* live demo available-https://smart-travel-planner-gfnuyhbqfqfnx2pbqtsntc.streamlit.app/
